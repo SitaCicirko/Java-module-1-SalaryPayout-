@@ -11,3 +11,8 @@ transfer.
 will take care of the implementation of the methods declared in the abstract class.
 3. Two classes of workers that will represent different kinds of workers
 – those who have a fixed salary and employees who are accounted for hours worked.
++ 
+Using the code created above, create new employee objects:
+an employee earning PLN 5 for creating one product,
+an employee who earns a basic salary of PLN 2,000 and 20% of this salary if
+will make additional sales of any product.
